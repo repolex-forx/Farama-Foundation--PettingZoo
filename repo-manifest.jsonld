@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Farama-Foundation/PettingZoo/commit/b0fe02166d2106f8fcb6a6e0ca8125765699bdba",
       "git:hexsha": "b0fe02166d2106f8fcb6a6e0ca8125765699bdba",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/Farama-Foundation/PettingZoo/commit/c9abd4cddd5f7374eab42a08883b5a224ad23097",
